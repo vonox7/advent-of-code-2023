@@ -1,3 +1,3 @@
 fun main() {
-    println(Day1().runPart2())
+    println(Day2().runPart2())
 }
